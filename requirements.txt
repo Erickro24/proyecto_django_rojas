@@ -1,0 +1,13 @@
+asgiref==3.8.1
+DateTime==5.5
+distlib==0.3.9
+Django==5.0.6
+djangorestframework==3.15.2
+filelock==3.16.1
+platformdirs==4.3.6
+pytz==2024.1
+setuptools==70.1.0
+sqlparse==0.5.0
+tzdata==2024.1
+virtualenv==20.27.1
+zope.interface==6.4.post2
